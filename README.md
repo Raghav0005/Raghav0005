@@ -14,3 +14,7 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<p align="center">
+  Hey! My name is Raghav, currently in first year of CS at Waterloo! I have spent much of my free time at hackathons and making personal projects. Check them out!
+</p>
