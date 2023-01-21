@@ -16,5 +16,5 @@
 </h1>
 
 <p align="center">
-  Hey! My name is Raghav, currently in first year of CS at Waterloo! I have spent much of my free time at hackathons and making personal projects. Check them out!
+  Hey! My name is Raghav, currently in first year of CS at Waterloo! I love spending my time at hackathons and making personal projects. Check them out!
 </p>
