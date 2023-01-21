@@ -26,5 +26,5 @@ Hey! I am Raghav, currently in first year of CS at Waterloo! I love spending my 
 
 :bulb: I would love to collaborate on some open source projects.\
 :mailbox: Contact me at:\
-          vasuraghav04@gmail.com\
-          +1 (647) 482 2976
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vasuraghav04@gmail.com\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1 (647) 482 2976
