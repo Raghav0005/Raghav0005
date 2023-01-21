@@ -24,8 +24,6 @@ Hey! I am Raghav, currently in first year of CS at Waterloo! I love spending my 
   Hey! I am Raghav, currently in first year of CS at Waterloo! I love spending my time at hackathons and making personal projects. Check them out!
 </p>
 
-:telescope: I am currently working on some open source projects.\
-:books: I am currently learning full stack development.\
 :bulb: I would love to collaborate on some open source projects.\
 :mailbox: Contact me at:\
           vasuraghav04@gmail.com\
