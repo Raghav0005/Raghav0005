@@ -20,11 +20,11 @@
 ### About Me:
 
 <p align="center">
-  Hey! I am Raghav, currently in first year of CS at Waterloo! I love spending my time at hackathons and making personal projects. Check them out!
+  Hey! I am Raghav, currently in first year of CS at University of Waterloo! I love spending my time at hackathons and making personal projects. Check them out!
 </p>
 
 :bulb: I would love to collaborate on some open source projects.\
-:mailbox: Contact me at:\
+:mailbox: Contact me at:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; r2vasude@uwaterloo.ca or vasuraghav04@gmail.com\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+1 (647) 482 2976
