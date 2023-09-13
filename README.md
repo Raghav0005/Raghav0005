@@ -20,7 +20,7 @@
 ### About Me:
 
 <p align="center">
-  Hey! my name is Raghav Vasudeva, currently a CS student at University of Waterloo! I love spending my time at hackathons and making personal projects. Check them out!
+  Hey! My name is Raghav Vasudeva. I am currently a CS student at University of Waterloo! I love spending my time at hackathons and making personal projects. Check them out!
 </p>
 
 :bulb: I would love to collaborate on some open source projects.\
